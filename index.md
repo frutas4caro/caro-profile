@@ -12,18 +12,18 @@ content in an accessible and dynamic matter.
 Choose a topic to explore:
 
 <div class="topic-grid">
-	<a class="topic-card" href="{{ site }}/figma/">
+	<a class="topic-card" href="{{ site.baseurl }}/figma/">
 		<h3> Figma </h3>
 		<p> simplified beginner to advanced figma training </p>
 	</a>
 
-        <a class="topic-card" href="{{ site }}/ai-prompt-engineering/">
+        <a class="topic-card" href="{{ site.baseurl }}/ai-prompt-engineering/">
                 <h3> ai prompt engineering </h3> 
                 <p> Prompt engineering fundamentals for software engineers 
 </p>
         </a>
 
-                <a class="topic-card" href="{{ site }}/getting-started/">
+                <a class="topic-card" href="{{ site.baseurl }}/getting-started/">
                 <h3> initial set up </h3> 
                 <p> Setting up your local for starter projects 
 </p>
