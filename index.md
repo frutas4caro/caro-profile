@@ -17,15 +17,13 @@ Choose a topic to explore:
 		<p> simplified beginner to advanced figma training </p>
 	</a>
 
-        <a class="topic-card" href="{{ site.baseurl 
-}}/ai-prompt-engineering/">
+        <a class="topic-card" href="{{ site.baseurl }}/ai-prompt-engineering/">
                 <h3> ai prompt engineering </h3> 
                 <p> Prompt engineering fundamentals for software engineers 
 </p>
         </a>
 
-                <a class="topic-card" href="{{ site.baseurl 
-}}/getting-started/">
+                <a class="topic-card" href="{{ site.baseurl }}/getting-started/">
                 <h3> initial set up </h3> 
                 <p> Setting up your local for starter projects 
 </p>
